@@ -9,8 +9,15 @@ Both math and reading scores were replaced with "NaN", which represents a "Not-a
 
 ### School District Summary
 When assessing average scores and passing percentages among the 15 high schools in the school district, the average math score dropped .1, the average reading score stayed the same, the percentage passing math dropped 1%, the percentage passing reading dropped 1%, and the overall passing percent dropped 1%.
+![district summary](https://github.com/TahaniSury/School_District_Analysis/blob/main/images/district%20summary.png)
 
 
 ### Top Five Performing Schools
 
+![Top five](https://github.com/TahaniSury/School_District_Analysis/blob/main/images/Top%20five.png)
+
+
 ### Bottom Five Performing Schools
+
+![bottom five](https://github.com/TahaniSury/School_District_Analysis/blob/main/images/bottom%20five.png)
+
